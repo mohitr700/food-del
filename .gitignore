@@ -3,6 +3,7 @@
 backend/.env
 frontend/.env
 admin/.env
+backend/config/db.js
 
 # Node modules
 node_modules/
